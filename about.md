@@ -7,7 +7,7 @@ permalink: /about/
 High Schooler who needs intellectual stimulation
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This blog will mostly be about my insights and curiosity about the world.
 
 ### Contact me
 
