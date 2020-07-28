@@ -8,5 +8,4 @@ The alexanders horned sphere is one of my most favorite mathematical structures 
 good first post hehe. :()
 
 
-![Image of Alexander Horned Sphere]
-("https://srilikestosing.github.io/images/Alexanders_horned_sphere.jpg")
+![Image of Alexander Horned Sphere](https://srilikestosing.github.io/images/Alexanders_horned_sphere.jpg)
