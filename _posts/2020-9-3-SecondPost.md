@@ -8,7 +8,7 @@ title: Summation of numbers from 1 to n
 Question of interest: Given an integer n, find the sum of numbers from 1 to n.
 
 
-You can obviously do it brute force method but that would take longer than a couple seconds with a nifty trick.
+You can obviously do it brute force method but that would take longer so to reduce that effort we can use a nifty trick.
 
 Lets give ourselves an example here. Lets have n = 10 and say that we want to find the sum of numbers from 1 to 10.
 
