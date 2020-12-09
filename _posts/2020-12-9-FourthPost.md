@@ -3,7 +3,7 @@ layout: post
 title: The Cryptocurrency Rabbit Hole
 ---
 
->**I really wanted to create my own cryptocurrency completely from scratch (releasing soon). So I had to reason from first principles in order to create a knowledge tree about everything from Ledgers, cryptographic hash functions to P2P architecure. **
+>I really wanted to create my own cryptocurrency completely from scratch (releasing soon). So I had to reason from first principles in order to create a knowledge tree about everything from Ledgers, cryptographic hash functions to P2P architecure. 
 
 
 - Want to build a currency without a central authority or a middle man processing and regulating
