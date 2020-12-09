@@ -42,5 +42,5 @@ What type of computational problems are there?
                 - every EXPTIME COMPLETE problem is not in P according to Time hierarchy theorem
 
     - Why can we prove that P != EXPTIME but we cant prove P != NP or NP != EXPTIME?
-        -
+        - TRYING TO SOLVE RIGHT NOW
 
