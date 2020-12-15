@@ -4,7 +4,7 @@ title: Humans will inevitably go extinct but you'll be surprised how exactly.
 ---
 
 
-![...](https://srilikestosing.github.io/images/https://srilikestosing.github.io/images/1_m6MzKTN1aaB10BLcrVhOBg.jpg)
+![...](https://srilikestosing.github.io/images/https://srilikestosing.github.io/images/1_m6MzKTN1aaB10BLcrVhOBg.jpeg)
 
 
   It is the 8th millennium and human civilization operates at a galactic level. 
