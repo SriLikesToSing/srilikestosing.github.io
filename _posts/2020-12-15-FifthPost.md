@@ -20,7 +20,7 @@ journey throughout the future and raise thought-provoking questions about the
 experiences our great great great great great grandchildren might experience. 
 Cause why not?
 
-  Sitting on a car ride to visit NASA JPL one burning hot summer afternoon, I was 
+>Sitting on a car ride to visit NASA JPL one burning hot summer afternoon, I was 
 thinking profoundly of a possible future that I never thought of before until that 
 very moment. Finally, all those sci-fi books came to good use. A possible future that 
 was floating into my mind was a situation where humanity had reached a type III civilization.
