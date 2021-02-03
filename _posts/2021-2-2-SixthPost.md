@@ -42,15 +42,25 @@ ta = will be
 
 The answers that I got:
 
+>Guarni to English
 
 1.)akaruma = I was eating
+
 2.)ojupita = He will be waking up
+
 3.)ndavo'omo'ai =  He will not be taking
+
 4.)napekororoi = You are not crying
+
 5.)ndapyhyima = I wasn't catching
 
+>English to Guarni 
+
 1.)You are not shooting = nepembokapui
+
 2.)He is not singing = ndo-puraheiri
+
 3.)We will be eating = jakaruta
+
 4.)I will not be singing = ndapuraheimo'ai
 
