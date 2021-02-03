@@ -14,18 +14,31 @@ Problem Statement:
 The following Guaraní verb forms are listed along with their English translations.
 
 japyhyta  : We will be catching
+
 nohyvykõiri : He is not enjoying
+
 ombokapu : He is shooting
+
 pemomaitei :  You are greeting
+
 ndokarumo'ãi : He will not be eating
+
 ndapevo'oima : You were not taking
+
 napekororõmo'ãi : You will not be crying
+
 noñe'e͂ i : He is not talking
+
 okororõ : He is crying
+
 ndajajupirima : We were not waking up
+
 ahyvykõima : I was enjoying
+
 añe'e͂ ta : I will be talking
+
 namomaiteiri : I am not greeting
+
 japurahei : We are singing
 
 *notes:
