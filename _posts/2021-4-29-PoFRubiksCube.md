@@ -8,9 +8,6 @@ title: Proof of Work based off of Rubik's Cubes
 
 
 
-Hello world
-
-
 
 
 
@@ -25,7 +22,7 @@ Disclaimer: This PoF method might not be necessarily better but it is another pr
 
 
 
-> Follow my github: https://github.com/SriLikesToSing
+> Follow my github!: https://github.com/SriLikesToSing
 
 
 
