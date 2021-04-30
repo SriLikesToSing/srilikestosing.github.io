@@ -9,7 +9,7 @@ Hello everyone, I had a lot of free time on my hands as 11th grade comes to a cl
 
 **So here's my proposed proof of work.** 
 
-> There are **43,000,000,000,000,000,000** possible states on a rubik's cube. 
+> There are **43,000,000,000,000,000,000** possible states on a 3x3 rubik's cube and exponentially more for higher nxn. 
 
 The goal of this proof of work is to show the transition (or exact sequence of moves) between one state and another state composed in rubik's cube notation **(https://ruwix.com/the-rubiks-cube/notation/)**. Finding this is hard and I do not know at the moment ***(maybe im ignorant)*** if there is a proposed algorithm for this.
 
