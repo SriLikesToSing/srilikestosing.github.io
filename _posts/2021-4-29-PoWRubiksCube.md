@@ -17,7 +17,7 @@ The resulting sequences of moves that would show how you transitioned from one r
 
 >A funny thought experiment for this proof of work is that you can imagine a "pool" of workers trying to "mine" the solution by twisting and turning the cubes arbitrarily and it made me laugh hysterically thinking about it. 
 
-Anyhow, this blog post is just me toying around and having fun in my free time with weird abstractions and ideas. Hope you guys enjoyed this post I hope people dont take this super seriously as I dont know if this can be implemented wide scale. I might actually make a cryptocurrency with this proof of work mechanism so stay tuned!
+Anyhow, this blog post is just me toying around and having fun in my free time with weird abstractions and ideas. Hope you guys enjoyed this post I hope people dont take this super seriously as I dont know if this can be implemented on a wide scale. I might actually make a cryptocurrency with this proof of work mechanism so stay tuned!
 
 Thanks for reading. 
   - Aditya 
