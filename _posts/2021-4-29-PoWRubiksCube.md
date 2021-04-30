@@ -5,7 +5,7 @@ title: Proof of Work based off of Rubik's Cubes
 
 **Disclaimer: This PoW method might not be necessarily better but it is definitely another proof of work method lmao.**
 
-Hello everyone, I had a lot of free time on my hands as 11th grade comes to a close. I was always obsessed with how proof of work could somehow create this sort of "consensus" among a large user base and I was trying to invent different new proof of work methods that were weird and unique that may turn out to be viable. I realized that rubiks cubes might work in creating a PoW that would be hard and scalable if we ran out of different combinations for the base 3x3 rubik's cube. ***(will talk about this later in the post)***. 
+Hello everyone, I had a lot of free time on my hands as 11th grade comes to a close. I was always obsessed with how proof of work could somehow create this sort of "consensus" among a large user base and I was trying to invent different new proof of work methods that were weird and unique that may turn out to be viable. I realized that rubiks cubes might work in creating a PoW that would be hard and scalable as if we ran out of different combinations for the base 3x3 rubik's cube we can easily increase the difficulty and add more possibilities. ***(will talk about this later in the post)***. 
 
 **So here's my proposed proof of work.** 
 
