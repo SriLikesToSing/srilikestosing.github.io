@@ -13,7 +13,7 @@ Hello everyone, I had a lot of free time on my hands as 11th grade comes to a cl
 
 The goal of this proof of work is to show the transition (or exact sequence of moves) between one state and another state composed in rubik's cube notation **(https://ruwix.com/the-rubiks-cube/notation/)**. Finding this is hard and I do not know at the moment ***(maybe im ignorant)*** if there is a proposed algorithm for this.
 
-The resulting sequences of moves would be the PoW you would show to the chain to validate the block. If we ever run out of scrambles we have the possibility of scaling up. For example, if we run out of all the 43 quintillion states that the 3x3 rubik's cube has we can easily upgrade to the 4x4 rubik's cube and so on for any nxn. Computers can easily simulate an nxn rubik's cube. Making a program that outputs the sequences of moves to one state to the next will be really difficult as you get to higher nxn cubes. 
+The resulting sequences of moves that would show how you transitioned from one rubiks cube state to another would be the PoW you would show to the chain to validate the block. If we ever run out of scrambles we have the possibility of scaling up. For example, if we run out of all the 43 quintillion states that the 3x3 rubik's cube has we can easily upgrade to the 4x4 rubik's cube and so on for any nxn. Computers can easily simulate an nxn rubik's cube. Making a program that outputs the sequences of moves to one state to the next will be really difficult as you get to higher nxn cubes. 
 
 >A funny thought experiment for this proof of work is that you can imagine a "pool" of workers trying to "mine" the solution by twisting and turning the cubes arbitrarily and it made me laugh hysterically thinking about it. 
 
