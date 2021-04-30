@@ -1,4 +1,35 @@
 ---
 layout: post
-title: Proof of Work based off of Rubik's Cubes (High School Student Shenanigans)
+title: Proof of Work based off of Rubik's Cubes
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> Follow my github: https://github.com/SriLikesToSing
+
+
+
+
+
+
+
+
+
